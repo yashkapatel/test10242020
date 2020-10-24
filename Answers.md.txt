@@ -1,0 +1,8 @@
+c)	equals(), ==
+
+d)	The code does not compile.
+c)	int[][] blue = new int[2][2];
+b)	Seven
+b)	trains[0] and trains[trains.length - 1]
+c)	Two
+
